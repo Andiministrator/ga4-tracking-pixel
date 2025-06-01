@@ -2,7 +2,7 @@ homepage: "https://github.com/Andiministrator/ga4-tracking-pixel"
 documentation: "https://github.com/Andiministrator/ga4-tracking-pixel/blob/main/README.md"
 versions:
   # Latest version
-  - sha: 
+  - sha: 118468d4b6cf595f61b1e608e0245b247b76243f
     changeNotes: v1.0 Initial Release
   # Older versions
   
